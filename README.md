@@ -42,10 +42,3 @@ This web-based application allows users to interact with a canvas to draw, erase
 1. **Set up the Problem**: Draw or write your problem on the canvas.
 2. **Run the Solution**: Click the "Run" button to send the image to the server for processing.
 3. **View the Result**: The solution will be returned in LaTeX format and displayed on the canvas.
-
-
-### Additional Notes:
-- **Usage**: You can add detailed instructions for how users can use the app in various scenarios.
-- **Installation**: A section on how to set up both the front-end and back-end could also be helpful.
-
-By adding this information to your README, you'll help others quickly understand how your tool works, how to use it, and how they can contribute or extend the project.
